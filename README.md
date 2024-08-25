@@ -1,3 +1,3 @@
 # firstgitrepository
 my first git repository
-author-deva bukya
+author-deva me
